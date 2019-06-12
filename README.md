@@ -3,8 +3,8 @@ This project uses a Raspberry Pi to send Pushover alerts when a mains power fail
 
 A pushover alert immediately upon a mains power failure. The user can set the elapsed time (in hours) at which an initial pushover reminder of the power failure duration is sent, as well as the frenquency of subsequent reminders. A pushover aler is sent when power is restored.
 
-## Hardware Schematics
-### The hardware schematic will go here
+## Hardware Schematic
+![Schematic](https://github.com/roscoe81/Power-Monitor/blob/master/Power_Monitor_schem.png)
 
 ## License
 
